@@ -7,5 +7,5 @@ let quote;
 
 switch (action.type) {
   case 'ADD_QUOTE': 
-    return.state
+    return state
 }
