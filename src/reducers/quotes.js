@@ -2,4 +2,5 @@ export default (state = [], action) => {
   return state;
 }
 
-let 
+let index; 
+let quote; 
