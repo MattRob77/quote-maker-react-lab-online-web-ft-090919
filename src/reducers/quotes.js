@@ -6,5 +6,5 @@ let index;
 let quote; 
 
 switch (action.type) {
-  
+  case 'Add'
 }
